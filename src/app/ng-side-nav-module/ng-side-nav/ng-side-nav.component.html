@@ -1,0 +1,12 @@
+<mat-drawer-container class="side-nav-container">
+  <mat-drawer [ngClass]="navClass" class="side-nav" opened="true" mode="side"
+              (mouseenter)="transition('enter')" (mouseleave)="transition('leave')">
+    <button mat-button class="nav-button" *ngFor="let navButton of navButtons"
+            (click)="navButton.action()">
+      <mat-icon class="nav-icon">{{navButton.icon}}</mat-icon>
+      <span class="nav-text" [ngClass]="textClass">{{navButton.label}}</span>
+    </button>
+  </mat-drawer>
+
+  <ng-content></ng-content>
+</mat-drawer-container>
