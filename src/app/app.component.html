@@ -1,3 +1,9 @@
-<ng-side-nav [navButtons]="navButtons">
-  <p>The main content!</p>
-</ng-side-nav>
+<button mat-button
+        #overlayOrigin="cdkOverlayOrigin"
+        cdkOverlayOrigin
+        (click)="overlay.toggle()">
+  Click me!
+</button>
+<ng-overlay #overlay [origin]="overlayOrigin">
+  <p style="height: 300px;">This is the overlay!</p>
+</ng-overlay>
