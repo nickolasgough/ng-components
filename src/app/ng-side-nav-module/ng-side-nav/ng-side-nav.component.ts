@@ -9,42 +9,10 @@ import { NgNavButton } from '../ng-nav-button/ng-nav-button';
   styleUrls: ['./ng-side-nav.component.scss'],
 })
 
-export class NgSideNavComponent implements OnInit {
+export class NgSideNavComponent {
 
   @Input() navButtons: NgNavButton[];
 
-  private navState: string;
-  private textState: string;
-
   constructor() {}
-
-  ngOnInit() {
-    this.navState = 'collapsed';
-    this.textState = 'hidden';
-  }
-
-  transition(action: string): void {
-    if (action === 'enter') {
-      this.navState = 'expanded';
-      this.textState = 'visible';
-    } else {
-      this.navState = 'collapsed';
-      this.textState = 'hidden';
-    }
-  }
-
-  get navClass(): {} {
-    return {
-      'collapsed': this.navState === 'collapsed',
-      'expanded': this.navState === 'expanded',
-    };
-  }
-
-  get textClass(): {} {
-    return {
-      'hidden': this.textState === 'hidden',
-      'visible': this.textState === 'visible',
-    };
-  }
 
 }
