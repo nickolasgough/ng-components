@@ -4,6 +4,10 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NgSideNavModule } from './ng-side-nav-module/ng-side-nav.module';
+import { NgOverlayModule } from './ng-overlay-module/ng-overlay.module';
+import { MatButtonModule } from '@angular/material';
+import { OverlayModule } from '@angular/cdk/overlay';
+
 
 @NgModule({
   declarations: [
@@ -12,10 +16,14 @@ import { NgSideNavModule } from './ng-side-nav-module/ng-side-nav.module';
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
+    MatButtonModule,
+    OverlayModule,
 
-    NgSideNavModule
+    NgSideNavModule,
+    NgOverlayModule
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }
