@@ -16,6 +16,7 @@ import { OverlayOriginDirective } from './overlay-origin/overlay-origin.directiv
   ],
   exports: [
     NgOverlayComponent,
+    OverlayOriginDirective
   ]
   ,
   declarations: [

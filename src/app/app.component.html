@@ -1,9 +1,8 @@
 <button mat-button
-        #overlayOrigin="cdkOverlayOrigin"
-        cdkOverlayOrigin
+        [overlayOriginFor]="overlay"
         (click)="overlay.toggle()">
   Click me!
 </button>
-<ng-overlay #overlay [origin]="overlayOrigin">
+<ng-overlay #overlay>
   <p style="height: 300px;">This is the overlay!</p>
 </ng-overlay>
