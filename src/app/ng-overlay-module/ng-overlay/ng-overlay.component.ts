@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, Input } from '@angular/core';
 import { CdkOverlayOrigin } from '@angular/cdk/overlay';
 
 
@@ -8,16 +8,12 @@ import { CdkOverlayOrigin } from '@angular/cdk/overlay';
   styleUrls: ['./ng-overlay.component.scss']
 })
 
-export class NgOverlayComponent implements OnInit {
+export class NgOverlayComponent {
 
   @Input() origin: CdkOverlayOrigin;
+  @Input() isOpen = false;
 
-  isOpen = false;
-
-  constructor() { }
-
-  ngOnInit() {
-  }
+  constructor() {}
 
   toggle(): void {
     this.isOpen = !this.isOpen;
