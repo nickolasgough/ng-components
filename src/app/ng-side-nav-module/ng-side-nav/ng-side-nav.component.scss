@@ -4,13 +4,25 @@
 
   .side-nav {
     height: 100%;
+    width: 75px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-content: center;
-    background-color: lightblue; // TODO - What do with the color? Theme?
-    transition: 400ms cubic-bezier(0.25, 0.8, 0.25, 1);
+    background-color: lightblue;
+    transition: width 400ms cubic-bezier(0.25, 0.8, 0.25, 1);
+
+    &:hover {
+      width: 175px;
+
+      .nav-button {
+        .nav-text {
+          opacity: 1;
+          transition: opacity 400ms 100ms cubic-bezier(0.55, 0, 0.55, 0.2);
+        }
+      }
+    }
 
     .nav-button {
       width: 100%;
@@ -22,30 +34,13 @@
 
       .nav-icon {
         padding: 5px 10px;
-        // TODO - Color the icon? Theme?
       }
 
       .nav-text {
         padding: 5px 10px 5px 0px;
         font-size: 16px;
-      }
-
-      .hidden {
         opacity: 0;
       }
-
-      .visible {
-        opacity: 1;
-        transition: opacity 400ms 100ms cubic-bezier(0.55, 0, 0.55, 0.2);
-      }
     }
-  }
-
-  .collapsed {
-    width: 75px;
-  }
-
-  .expanded {
-    width: 175px;
   }
 }
