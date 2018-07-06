@@ -1,4 +1,4 @@
-import { Directive, ElementRef, Input, OnInit } from '@angular/core';
+import { AfterViewInit, Directive, ElementRef, Input, OnInit } from '@angular/core';
 
 import { NgOverlayComponent } from '../ng-overlay/ng-overlay.component';
 import { CdkOverlayOrigin } from '@angular/cdk/overlay';
@@ -8,7 +8,7 @@ import { CdkOverlayOrigin } from '@angular/cdk/overlay';
   selector: '[overlayOriginFor]'
 })
 
-export class OverlayOriginDirective implements OnInit{
+export class OverlayOriginDirective implements OnInit, AfterViewInit{
 
   @Input() overlayOriginFor: NgOverlayComponent;
 
@@ -16,6 +16,10 @@ export class OverlayOriginDirective implements OnInit{
 
   ngOnInit(): void {
     this.overlayOriginFor.origin = this as CdkOverlayOrigin;
+  }
+
+  ngAfterViewInit(): void {
+    this.overlayOriginFor.determinePosition(this.elementRef.nativeElement.offsetY);
   }
 
 }
