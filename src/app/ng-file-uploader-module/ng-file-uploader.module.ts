@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatIconModule } from '@angular/material';
 
-import { NgFileUploaderComponent } from './ng-file-uploader.component';
+import { NgFileUploaderComponent } from './ng-file-uploader/ng-file-uploader.component';
 
 
 @NgModule({
