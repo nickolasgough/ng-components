@@ -114,7 +114,7 @@ export class NgEmojiParserComponent implements OnInit {
   }
 
   private writeJSONFile(emojiData: {}): Blob {
-    const json = JSON.stringify(emojiData, null, 4);
+    const json = JSON.stringify(emojiData, null, 2);
     return new Blob([json], {type: 'text/json'});
   }
 
