@@ -8,8 +8,8 @@ import { NgOverlayModule } from './ng-overlay-module/ng-overlay.module';
 import { MatButtonModule } from '@angular/material';
 import { OverlayModule } from '@angular/cdk/overlay';
 import { NgEmojiParserModule } from './ng-emoji-parser-module/ng-emoji-parser.module';
-import { NgFileUploaderComponent } from './ng-file-uploader-module/ng-file-uploader/ng-file-uploader.component';
 import { NgFileUploaderModule } from './ng-file-uploader-module/ng-file-uploader.module';
+import { NgEmojiPickerModuleModule } from './ng-emoji-picker-module/ng-emoji-picker-module.module';
 
 
 @NgModule({
@@ -25,7 +25,8 @@ import { NgFileUploaderModule } from './ng-file-uploader-module/ng-file-uploader
     NgSideNavModule,
     NgOverlayModule,
     NgEmojiParserModule,
-    NgFileUploaderModule
+    NgFileUploaderModule,
+    NgEmojiPickerModuleModule
   ],
   providers: [],
   bootstrap: [AppComponent]
