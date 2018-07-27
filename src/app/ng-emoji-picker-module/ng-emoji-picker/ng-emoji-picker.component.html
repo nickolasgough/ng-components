@@ -1,5 +1,10 @@
-<ng-overlay>
-  <div class="emoji-picker">
-
+<div class="emoji-picker">
+  <div *ngFor="let group of groups()">
+    <h3>{{ group }}</h3>
+    <div class="emojies">
+      <button mat-icon-button class="emoji-button" *ngFor="let emoji of emojies(group)">
+        <span class="emoji-icon">{{ emoji.emoji }}</span>
+      </button>
+    </div>
   </div>
-</ng-overlay>
+</div>

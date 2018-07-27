@@ -1,4 +1,4 @@
-const EMOJI_DATA = {
+export const EMOJI_DATA = {
   'smileys & people': {
     'face-positive': [
       {
@@ -29104,7 +29104,7 @@ const EMOJI_DATA = {
   }
 };
 
-const GROUP_DATA = {
+export const GROUP_DATA = {
   'smileys & people': {
     'icon': 'insert_emoticon'
   },
@@ -29131,7 +29131,7 @@ const GROUP_DATA = {
   }
 };
 
-const EMOJI_SKIN_TONES = {
+export const EMOJI_SKIN_TONES = {
   'light': {
     'emoji': '🏻',
     'codePoints': [
