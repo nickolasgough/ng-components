@@ -1,1 +1,8 @@
-<ng-emoji-parser></ng-emoji-parser>
+<button mat-button
+        [overlayOriginFor]="overlay"
+        (click)="overlay.toggle()">
+  Click me!
+</button>
+<ng-overlay #overlay>
+  <p style="height: 300px;">This is the overlay!</p>
+</ng-overlay>

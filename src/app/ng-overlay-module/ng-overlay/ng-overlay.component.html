@@ -1,6 +1,7 @@
 <ng-template cdkConnectedOverlay
              [cdkConnectedOverlayOrigin]="origin"
              [cdkConnectedOverlayOpen]="isOpen">
+  <div class="backdrop" (click)="isOpen = false"></div>
   <div class="overlay">
     <div class="content">
       <ng-content></ng-content>
