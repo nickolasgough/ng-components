@@ -94,11 +94,19 @@ export class NgEmojiParserComponent implements OnInit {
   }
 
   private extractDescription(line: string): string {
-    return this.splitDescription(line).split(':')[0];
+    const description: string = this.splitDescription(line);
+    if (line.indexOf('skin tone') < 0) {
+      return description;
+    }
+
+    return description.split(':')[0];
   }
 
   private extractSelector(line: string): string {
-    return ':' + this.extractDescription(line).split(' ').join('-') + ':';
+    const description = this.extractDescription(line)
+      .replace(/:/g, '')
+      .replace(/,/g, '');
+    return ':' + description.split(' ').join('-') + ':';
   }
 
   private extractEmoji(line: string): string {
@@ -109,6 +117,10 @@ export class NgEmojiParserComponent implements OnInit {
   }
 
   private extractSkinTone(line: string): string {
+    if (line.indexOf('skin tone') < 0) {
+      return '';
+    }
+
     const descriptionParts: string[] = this.splitDescription(line).split(':');
     return descriptionParts.length > 1 ? descriptionParts[1].trim().split(' ')[0] : '';
   }

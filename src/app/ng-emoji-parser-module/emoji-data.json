@@ -5568,7 +5568,7 @@
           "1F9B0"
         ],
         "description": "man, red haired",
-        "selector": ":man,-red-haired:",
+        "selector": ":man-red-haired:",
         "skinTone": ""
       },
       {
@@ -5580,7 +5580,7 @@
           "1F9B0"
         ],
         "description": "man, red haired",
-        "selector": ":man,-red-haired:",
+        "selector": ":man-red-haired:",
         "skinTone": "light"
       },
       {
@@ -5592,7 +5592,7 @@
           "1F9B0"
         ],
         "description": "man, red haired",
-        "selector": ":man,-red-haired:",
+        "selector": ":man-red-haired:",
         "skinTone": "medium-light"
       },
       {
@@ -5604,7 +5604,7 @@
           "1F9B0"
         ],
         "description": "man, red haired",
-        "selector": ":man,-red-haired:",
+        "selector": ":man-red-haired:",
         "skinTone": "medium"
       },
       {
@@ -5616,7 +5616,7 @@
           "1F9B0"
         ],
         "description": "man, red haired",
-        "selector": ":man,-red-haired:",
+        "selector": ":man-red-haired:",
         "skinTone": "medium-dark"
       },
       {
@@ -5628,7 +5628,7 @@
           "1F9B0"
         ],
         "description": "man, red haired",
-        "selector": ":man,-red-haired:",
+        "selector": ":man-red-haired:",
         "skinTone": "dark"
       },
       {
@@ -5639,7 +5639,7 @@
           "1F9B0"
         ],
         "description": "woman, red haired",
-        "selector": ":woman,-red-haired:",
+        "selector": ":woman-red-haired:",
         "skinTone": ""
       },
       {
@@ -5651,7 +5651,7 @@
           "1F9B0"
         ],
         "description": "woman, red haired",
-        "selector": ":woman,-red-haired:",
+        "selector": ":woman-red-haired:",
         "skinTone": "light"
       },
       {
@@ -5663,7 +5663,7 @@
           "1F9B0"
         ],
         "description": "woman, red haired",
-        "selector": ":woman,-red-haired:",
+        "selector": ":woman-red-haired:",
         "skinTone": "medium-light"
       },
       {
@@ -5675,7 +5675,7 @@
           "1F9B0"
         ],
         "description": "woman, red haired",
-        "selector": ":woman,-red-haired:",
+        "selector": ":woman-red-haired:",
         "skinTone": "medium"
       },
       {
@@ -5687,7 +5687,7 @@
           "1F9B0"
         ],
         "description": "woman, red haired",
-        "selector": ":woman,-red-haired:",
+        "selector": ":woman-red-haired:",
         "skinTone": "medium-dark"
       },
       {
@@ -5699,7 +5699,7 @@
           "1F9B0"
         ],
         "description": "woman, red haired",
-        "selector": ":woman,-red-haired:",
+        "selector": ":woman-red-haired:",
         "skinTone": "dark"
       },
       {
@@ -5710,7 +5710,7 @@
           "1F9B1"
         ],
         "description": "man, curly haired",
-        "selector": ":man,-curly-haired:",
+        "selector": ":man-curly-haired:",
         "skinTone": ""
       },
       {
@@ -5722,7 +5722,7 @@
           "1F9B1"
         ],
         "description": "man, curly haired",
-        "selector": ":man,-curly-haired:",
+        "selector": ":man-curly-haired:",
         "skinTone": "light"
       },
       {
@@ -5734,7 +5734,7 @@
           "1F9B1"
         ],
         "description": "man, curly haired",
-        "selector": ":man,-curly-haired:",
+        "selector": ":man-curly-haired:",
         "skinTone": "medium-light"
       },
       {
@@ -5746,7 +5746,7 @@
           "1F9B1"
         ],
         "description": "man, curly haired",
-        "selector": ":man,-curly-haired:",
+        "selector": ":man-curly-haired:",
         "skinTone": "medium"
       },
       {
@@ -5758,7 +5758,7 @@
           "1F9B1"
         ],
         "description": "man, curly haired",
-        "selector": ":man,-curly-haired:",
+        "selector": ":man-curly-haired:",
         "skinTone": "medium-dark"
       },
       {
@@ -5770,7 +5770,7 @@
           "1F9B1"
         ],
         "description": "man, curly haired",
-        "selector": ":man,-curly-haired:",
+        "selector": ":man-curly-haired:",
         "skinTone": "dark"
       },
       {
@@ -5781,7 +5781,7 @@
           "1F9B1"
         ],
         "description": "woman, curly haired",
-        "selector": ":woman,-curly-haired:",
+        "selector": ":woman-curly-haired:",
         "skinTone": ""
       },
       {
@@ -5793,7 +5793,7 @@
           "1F9B1"
         ],
         "description": "woman, curly haired",
-        "selector": ":woman,-curly-haired:",
+        "selector": ":woman-curly-haired:",
         "skinTone": "light"
       },
       {
@@ -5805,7 +5805,7 @@
           "1F9B1"
         ],
         "description": "woman, curly haired",
-        "selector": ":woman,-curly-haired:",
+        "selector": ":woman-curly-haired:",
         "skinTone": "medium-light"
       },
       {
@@ -5817,7 +5817,7 @@
           "1F9B1"
         ],
         "description": "woman, curly haired",
-        "selector": ":woman,-curly-haired:",
+        "selector": ":woman-curly-haired:",
         "skinTone": "medium"
       },
       {
@@ -5829,7 +5829,7 @@
           "1F9B1"
         ],
         "description": "woman, curly haired",
-        "selector": ":woman,-curly-haired:",
+        "selector": ":woman-curly-haired:",
         "skinTone": "medium-dark"
       },
       {
@@ -5841,7 +5841,7 @@
           "1F9B1"
         ],
         "description": "woman, curly haired",
-        "selector": ":woman,-curly-haired:",
+        "selector": ":woman-curly-haired:",
         "skinTone": "dark"
       },
       {
@@ -5852,7 +5852,7 @@
           "1F9B2"
         ],
         "description": "man, bald",
-        "selector": ":man,-bald:",
+        "selector": ":man-bald:",
         "skinTone": ""
       },
       {
@@ -5864,7 +5864,7 @@
           "1F9B2"
         ],
         "description": "man, bald",
-        "selector": ":man,-bald:",
+        "selector": ":man-bald:",
         "skinTone": "light"
       },
       {
@@ -5876,7 +5876,7 @@
           "1F9B2"
         ],
         "description": "man, bald",
-        "selector": ":man,-bald:",
+        "selector": ":man-bald:",
         "skinTone": "medium-light"
       },
       {
@@ -5888,7 +5888,7 @@
           "1F9B2"
         ],
         "description": "man, bald",
-        "selector": ":man,-bald:",
+        "selector": ":man-bald:",
         "skinTone": "medium"
       },
       {
@@ -5900,7 +5900,7 @@
           "1F9B2"
         ],
         "description": "man, bald",
-        "selector": ":man,-bald:",
+        "selector": ":man-bald:",
         "skinTone": "medium-dark"
       },
       {
@@ -5912,7 +5912,7 @@
           "1F9B2"
         ],
         "description": "man, bald",
-        "selector": ":man,-bald:",
+        "selector": ":man-bald:",
         "skinTone": "dark"
       },
       {
@@ -5923,7 +5923,7 @@
           "1F9B2"
         ],
         "description": "woman, bald",
-        "selector": ":woman,-bald:",
+        "selector": ":woman-bald:",
         "skinTone": ""
       },
       {
@@ -5935,7 +5935,7 @@
           "1F9B2"
         ],
         "description": "woman, bald",
-        "selector": ":woman,-bald:",
+        "selector": ":woman-bald:",
         "skinTone": "light"
       },
       {
@@ -5947,7 +5947,7 @@
           "1F9B2"
         ],
         "description": "woman, bald",
-        "selector": ":woman,-bald:",
+        "selector": ":woman-bald:",
         "skinTone": "medium-light"
       },
       {
@@ -5959,7 +5959,7 @@
           "1F9B2"
         ],
         "description": "woman, bald",
-        "selector": ":woman,-bald:",
+        "selector": ":woman-bald:",
         "skinTone": "medium"
       },
       {
@@ -5971,7 +5971,7 @@
           "1F9B2"
         ],
         "description": "woman, bald",
-        "selector": ":woman,-bald:",
+        "selector": ":woman-bald:",
         "skinTone": "medium-dark"
       },
       {
@@ -5983,7 +5983,7 @@
           "1F9B2"
         ],
         "description": "woman, bald",
-        "selector": ":woman,-bald:",
+        "selector": ":woman-bald:",
         "skinTone": "dark"
       },
       {
@@ -5994,7 +5994,7 @@
           "1F9B3"
         ],
         "description": "man, white haired",
-        "selector": ":man,-white-haired:",
+        "selector": ":man-white-haired:",
         "skinTone": ""
       },
       {
@@ -6006,7 +6006,7 @@
           "1F9B3"
         ],
         "description": "man, white haired",
-        "selector": ":man,-white-haired:",
+        "selector": ":man-white-haired:",
         "skinTone": "light"
       },
       {
@@ -6018,7 +6018,7 @@
           "1F9B3"
         ],
         "description": "man, white haired",
-        "selector": ":man,-white-haired:",
+        "selector": ":man-white-haired:",
         "skinTone": "medium-light"
       },
       {
@@ -6030,7 +6030,7 @@
           "1F9B3"
         ],
         "description": "man, white haired",
-        "selector": ":man,-white-haired:",
+        "selector": ":man-white-haired:",
         "skinTone": "medium"
       },
       {
@@ -6042,7 +6042,7 @@
           "1F9B3"
         ],
         "description": "man, white haired",
-        "selector": ":man,-white-haired:",
+        "selector": ":man-white-haired:",
         "skinTone": "medium-dark"
       },
       {
@@ -6054,7 +6054,7 @@
           "1F9B3"
         ],
         "description": "man, white haired",
-        "selector": ":man,-white-haired:",
+        "selector": ":man-white-haired:",
         "skinTone": "dark"
       },
       {
@@ -6065,7 +6065,7 @@
           "1F9B3"
         ],
         "description": "woman, white haired",
-        "selector": ":woman,-white-haired:",
+        "selector": ":woman-white-haired:",
         "skinTone": ""
       },
       {
@@ -6077,7 +6077,7 @@
           "1F9B3"
         ],
         "description": "woman, white haired",
-        "selector": ":woman,-white-haired:",
+        "selector": ":woman-white-haired:",
         "skinTone": "light"
       },
       {
@@ -6089,7 +6089,7 @@
           "1F9B3"
         ],
         "description": "woman, white haired",
-        "selector": ":woman,-white-haired:",
+        "selector": ":woman-white-haired:",
         "skinTone": "medium-light"
       },
       {
@@ -6101,7 +6101,7 @@
           "1F9B3"
         ],
         "description": "woman, white haired",
-        "selector": ":woman,-white-haired:",
+        "selector": ":woman-white-haired:",
         "skinTone": "medium"
       },
       {
@@ -6113,7 +6113,7 @@
           "1F9B3"
         ],
         "description": "woman, white haired",
-        "selector": ":woman,-white-haired:",
+        "selector": ":woman-white-haired:",
         "skinTone": "medium-dark"
       },
       {
@@ -6125,7 +6125,7 @@
           "1F9B3"
         ],
         "description": "woman, white haired",
-        "selector": ":woman,-white-haired:",
+        "selector": ":woman-white-haired:",
         "skinTone": "dark"
       },
       {
@@ -14676,9 +14676,9 @@
           "200D",
           "1F468"
         ],
-        "description": "kiss",
-        "selector": ":kiss:",
-        "skinTone": "woman,"
+        "description": "kiss: woman, man",
+        "selector": ":kiss-woman-man:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍❤️‍💋‍👨",
@@ -14692,9 +14692,9 @@
           "200D",
           "1F468"
         ],
-        "description": "kiss",
-        "selector": ":kiss:",
-        "skinTone": "man,"
+        "description": "kiss: man, man",
+        "selector": ":kiss-man-man:",
+        "skinTone": ""
       },
       {
         "emoji": "👩‍❤️‍💋‍👩",
@@ -14708,9 +14708,9 @@
           "200D",
           "1F469"
         ],
-        "description": "kiss",
-        "selector": ":kiss:",
-        "skinTone": "woman,"
+        "description": "kiss: woman, woman",
+        "selector": ":kiss-woman-woman:",
+        "skinTone": ""
       },
       {
         "emoji": "💑",
@@ -14731,9 +14731,9 @@
           "200D",
           "1F468"
         ],
-        "description": "couple with heart",
-        "selector": ":couple-with-heart:",
-        "skinTone": "woman,"
+        "description": "couple with heart: woman, man",
+        "selector": ":couple-with-heart-woman-man:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍❤️‍👨",
@@ -14745,9 +14745,9 @@
           "200D",
           "1F468"
         ],
-        "description": "couple with heart",
-        "selector": ":couple-with-heart:",
-        "skinTone": "man,"
+        "description": "couple with heart: man, man",
+        "selector": ":couple-with-heart-man-man:",
+        "skinTone": ""
       },
       {
         "emoji": "👩‍❤️‍👩",
@@ -14759,9 +14759,9 @@
           "200D",
           "1F469"
         ],
-        "description": "couple with heart",
-        "selector": ":couple-with-heart:",
-        "skinTone": "woman,"
+        "description": "couple with heart: woman, woman",
+        "selector": ":couple-with-heart-woman-woman:",
+        "skinTone": ""
       },
       {
         "emoji": "👪",
@@ -14781,9 +14781,9 @@
           "200D",
           "1F466"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "man,"
+        "description": "family: man, woman, boy",
+        "selector": ":family-man-woman-boy:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍👩‍👧",
@@ -14794,9 +14794,9 @@
           "200D",
           "1F467"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "man,"
+        "description": "family: man, woman, girl",
+        "selector": ":family-man-woman-girl:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍👩‍👧‍👦",
@@ -14809,9 +14809,9 @@
           "200D",
           "1F466"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "man,"
+        "description": "family: man, woman, girl, boy",
+        "selector": ":family-man-woman-girl-boy:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍👩‍👦‍👦",
@@ -14824,9 +14824,9 @@
           "200D",
           "1F466"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "man,"
+        "description": "family: man, woman, boy, boy",
+        "selector": ":family-man-woman-boy-boy:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍👩‍👧‍👧",
@@ -14839,9 +14839,9 @@
           "200D",
           "1F467"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "man,"
+        "description": "family: man, woman, girl, girl",
+        "selector": ":family-man-woman-girl-girl:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍👨‍👦",
@@ -14852,9 +14852,9 @@
           "200D",
           "1F466"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "man,"
+        "description": "family: man, man, boy",
+        "selector": ":family-man-man-boy:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍👨‍👧",
@@ -14865,9 +14865,9 @@
           "200D",
           "1F467"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "man,"
+        "description": "family: man, man, girl",
+        "selector": ":family-man-man-girl:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍👨‍👧‍👦",
@@ -14880,9 +14880,9 @@
           "200D",
           "1F466"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "man,"
+        "description": "family: man, man, girl, boy",
+        "selector": ":family-man-man-girl-boy:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍👨‍👦‍👦",
@@ -14895,9 +14895,9 @@
           "200D",
           "1F466"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "man,"
+        "description": "family: man, man, boy, boy",
+        "selector": ":family-man-man-boy-boy:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍👨‍👧‍👧",
@@ -14910,9 +14910,9 @@
           "200D",
           "1F467"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "man,"
+        "description": "family: man, man, girl, girl",
+        "selector": ":family-man-man-girl-girl:",
+        "skinTone": ""
       },
       {
         "emoji": "👩‍👩‍👦",
@@ -14923,9 +14923,9 @@
           "200D",
           "1F466"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "woman,"
+        "description": "family: woman, woman, boy",
+        "selector": ":family-woman-woman-boy:",
+        "skinTone": ""
       },
       {
         "emoji": "👩‍👩‍👧",
@@ -14936,9 +14936,9 @@
           "200D",
           "1F467"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "woman,"
+        "description": "family: woman, woman, girl",
+        "selector": ":family-woman-woman-girl:",
+        "skinTone": ""
       },
       {
         "emoji": "👩‍👩‍👧‍👦",
@@ -14951,9 +14951,9 @@
           "200D",
           "1F466"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "woman,"
+        "description": "family: woman, woman, girl, boy",
+        "selector": ":family-woman-woman-girl-boy:",
+        "skinTone": ""
       },
       {
         "emoji": "👩‍👩‍👦‍👦",
@@ -14966,9 +14966,9 @@
           "200D",
           "1F466"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "woman,"
+        "description": "family: woman, woman, boy, boy",
+        "selector": ":family-woman-woman-boy-boy:",
+        "skinTone": ""
       },
       {
         "emoji": "👩‍👩‍👧‍👧",
@@ -14981,9 +14981,9 @@
           "200D",
           "1F467"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "woman,"
+        "description": "family: woman, woman, girl, girl",
+        "selector": ":family-woman-woman-girl-girl:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍👦",
@@ -14992,9 +14992,9 @@
           "200D",
           "1F466"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "man,"
+        "description": "family: man, boy",
+        "selector": ":family-man-boy:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍👦‍👦",
@@ -15005,9 +15005,9 @@
           "200D",
           "1F466"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "man,"
+        "description": "family: man, boy, boy",
+        "selector": ":family-man-boy-boy:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍👧",
@@ -15016,9 +15016,9 @@
           "200D",
           "1F467"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "man,"
+        "description": "family: man, girl",
+        "selector": ":family-man-girl:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍👧‍👦",
@@ -15029,9 +15029,9 @@
           "200D",
           "1F466"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "man,"
+        "description": "family: man, girl, boy",
+        "selector": ":family-man-girl-boy:",
+        "skinTone": ""
       },
       {
         "emoji": "👨‍👧‍👧",
@@ -15042,9 +15042,9 @@
           "200D",
           "1F467"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "man,"
+        "description": "family: man, girl, girl",
+        "selector": ":family-man-girl-girl:",
+        "skinTone": ""
       },
       {
         "emoji": "👩‍👦",
@@ -15053,9 +15053,9 @@
           "200D",
           "1F466"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "woman,"
+        "description": "family: woman, boy",
+        "selector": ":family-woman-boy:",
+        "skinTone": ""
       },
       {
         "emoji": "👩‍👦‍👦",
@@ -15066,9 +15066,9 @@
           "200D",
           "1F466"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "woman,"
+        "description": "family: woman, boy, boy",
+        "selector": ":family-woman-boy-boy:",
+        "skinTone": ""
       },
       {
         "emoji": "👩‍👧",
@@ -15077,9 +15077,9 @@
           "200D",
           "1F467"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "woman,"
+        "description": "family: woman, girl",
+        "selector": ":family-woman-girl:",
+        "skinTone": ""
       },
       {
         "emoji": "👩‍👧‍👦",
@@ -15090,9 +15090,9 @@
           "200D",
           "1F466"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "woman,"
+        "description": "family: woman, girl, boy",
+        "selector": ":family-woman-girl-boy:",
+        "skinTone": ""
       },
       {
         "emoji": "👩‍👧‍👧",
@@ -15103,9 +15103,9 @@
           "200D",
           "1F467"
         ],
-        "description": "family",
-        "selector": ":family:",
-        "skinTone": "woman,"
+        "description": "family: woman, girl, girl",
+        "selector": ":family-woman-girl-girl:",
+        "skinTone": ""
       }
     ],
     "body": [
@@ -25698,9 +25698,9 @@
           "FE0F",
           "20E3"
         ],
-        "description": "keycap",
-        "selector": ":keycap:",
-        "skinTone": "*"
+        "description": "keycap: *",
+        "selector": ":keycap-*:",
+        "skinTone": ""
       },
       {
         "emoji": "0️⃣",
@@ -25709,9 +25709,9 @@
           "FE0F",
           "20E3"
         ],
-        "description": "keycap",
-        "selector": ":keycap:",
-        "skinTone": "0"
+        "description": "keycap: 0",
+        "selector": ":keycap-0:",
+        "skinTone": ""
       },
       {
         "emoji": "1️⃣",
@@ -25720,9 +25720,9 @@
           "FE0F",
           "20E3"
         ],
-        "description": "keycap",
-        "selector": ":keycap:",
-        "skinTone": "1"
+        "description": "keycap: 1",
+        "selector": ":keycap-1:",
+        "skinTone": ""
       },
       {
         "emoji": "2️⃣",
@@ -25731,9 +25731,9 @@
           "FE0F",
           "20E3"
         ],
-        "description": "keycap",
-        "selector": ":keycap:",
-        "skinTone": "2"
+        "description": "keycap: 2",
+        "selector": ":keycap-2:",
+        "skinTone": ""
       },
       {
         "emoji": "3️⃣",
@@ -25742,9 +25742,9 @@
           "FE0F",
           "20E3"
         ],
-        "description": "keycap",
-        "selector": ":keycap:",
-        "skinTone": "3"
+        "description": "keycap: 3",
+        "selector": ":keycap-3:",
+        "skinTone": ""
       },
       {
         "emoji": "4️⃣",
@@ -25753,9 +25753,9 @@
           "FE0F",
           "20E3"
         ],
-        "description": "keycap",
-        "selector": ":keycap:",
-        "skinTone": "4"
+        "description": "keycap: 4",
+        "selector": ":keycap-4:",
+        "skinTone": ""
       },
       {
         "emoji": "5️⃣",
@@ -25764,9 +25764,9 @@
           "FE0F",
           "20E3"
         ],
-        "description": "keycap",
-        "selector": ":keycap:",
-        "skinTone": "5"
+        "description": "keycap: 5",
+        "selector": ":keycap-5:",
+        "skinTone": ""
       },
       {
         "emoji": "6️⃣",
@@ -25775,9 +25775,9 @@
           "FE0F",
           "20E3"
         ],
-        "description": "keycap",
-        "selector": ":keycap:",
-        "skinTone": "6"
+        "description": "keycap: 6",
+        "selector": ":keycap-6:",
+        "skinTone": ""
       },
       {
         "emoji": "7️⃣",
@@ -25786,9 +25786,9 @@
           "FE0F",
           "20E3"
         ],
-        "description": "keycap",
-        "selector": ":keycap:",
-        "skinTone": "7"
+        "description": "keycap: 7",
+        "selector": ":keycap-7:",
+        "skinTone": ""
       },
       {
         "emoji": "8️⃣",
@@ -25797,9 +25797,9 @@
           "FE0F",
           "20E3"
         ],
-        "description": "keycap",
-        "selector": ":keycap:",
-        "skinTone": "8"
+        "description": "keycap: 8",
+        "selector": ":keycap-8:",
+        "skinTone": ""
       },
       {
         "emoji": "9️⃣",
@@ -25808,18 +25808,18 @@
           "FE0F",
           "20E3"
         ],
-        "description": "keycap",
-        "selector": ":keycap:",
-        "skinTone": "9"
+        "description": "keycap: 9",
+        "selector": ":keycap-9:",
+        "skinTone": ""
       },
       {
         "emoji": "🔟",
         "codePoints": [
           "1F51F"
         ],
-        "description": "keycap",
-        "selector": ":keycap:",
-        "skinTone": "10"
+        "description": "keycap: 10",
+        "selector": ":keycap-10:",
+        "skinTone": ""
       }
     ],
     "alphanum": [
