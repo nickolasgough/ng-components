@@ -10,6 +10,7 @@ import { OverlayModule } from '@angular/cdk/overlay';
 import { NgEmojiParserModule } from './ng-emoji-parser-module/ng-emoji-parser.module';
 import { NgFileUploaderModule } from './ng-file-uploader-module/ng-file-uploader.module';
 import { NgEmojiPickerModuleModule } from './ng-emoji-picker-module/ng-emoji-picker-module.module';
+import { NgLoadingModule } from './ng-loading-module/ng-loading.module';
 
 
 @NgModule({
@@ -26,7 +27,8 @@ import { NgEmojiPickerModuleModule } from './ng-emoji-picker-module/ng-emoji-pic
     NgOverlayModule,
     NgEmojiParserModule,
     NgFileUploaderModule,
-    NgEmojiPickerModuleModule
+    NgEmojiPickerModuleModule,
+    NgLoadingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

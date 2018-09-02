@@ -1,0 +1,38 @@
+.loading-dots {
+  height: 300px;
+  width: 300px;
+  display: flex;
+
+  .loading-dot {
+    background-color: #1966ff; // What to do about the color?
+    border-radius: 50%;
+    transform: scale(0, 0);
+  }
+
+  .dot-0 {
+    @keyframes grow-dot {
+      0% { transform: scale(0, 0); }
+      50% { transform: scale(1, 1); }
+      100% { transform: scale(0, 0); }
+    }
+    animation: grow-dot 1s cubic-bezier(0.25, 0.8, 0.25, 1) infinite;
+  }
+
+  .dot-1 {
+    @keyframes grow-dot {
+      0% { transform: scale(0, 0); }
+      50% { transform: scale(1, 1); }
+      100% { transform: scale(0, 0); }
+    }
+    animation: grow-dot 1s cubic-bezier(0.25, 0.8, 0.25, 1) 111.1ms infinite;
+  }
+
+  .dot-2 {
+    @keyframes grow-dot {
+      0% { transform: scale(0, 0); }
+      50% { transform: scale(1, 1); }
+      100% { transform: scale(0, 0); }
+    }
+    animation: grow-dot 1s cubic-bezier(0.25, 0.8, 0.25, 1) 222.2ms infinite;
+  }
+}
